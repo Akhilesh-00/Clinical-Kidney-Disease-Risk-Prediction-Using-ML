@@ -24,6 +24,18 @@ The project follows these steps:
    - Training a RandomForestClassifier model on the training data.
    - Evaluating the model's performance using accuracy and other relevant metrics.
 
+## Why this matters in industry
+
+Most AI systems fail for low-resource languages.
+
+Demonstrates multilingual NLP and speech pipelines.
+
+Addresses accessibility and inclusion in AI systems.
+
+Relevant to conversational AI, voice interfaces, and regional AI products.
+
+Shows integration of LLMs with speech recognition and TTS.
+
 ## Results
 
 The model achieves an accuracy of ... (Insert the actual accuracy score here).
